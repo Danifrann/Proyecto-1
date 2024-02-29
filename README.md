@@ -6,9 +6,12 @@ Este es un proyecto que realiza cálculos para una tienda online.
 
 El proyecto incluye una función `calcularDescuento` para calcular descuentos y un algoritmo para gestionar la compra de productos en una tienda.
 
-## Función calcularDescuento
+## Código PSeInt
 
-La función `calcularDescuento` determina si se aplica un descuento al precio original según si se dispone de un código de descuento.
+El algoritmo muestra un menú que permite al usuario ingresar los datos requeridos en el enunciado y ejecuta
+las operaciones hasta que el usuario seleccione la opción "Salir" (bucle)
+
+Escribí todo el algoritmo sin funciones, pero luego agregué la función `calcularDescuento` ya que era requerido por la pauta.
 
 ```plaintext
 Funcion descuento <- calcularDescuento ( precioOriginal, tieneCodigoDescuento )
